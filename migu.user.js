@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         咪咕音乐页面增强
+// @name         咪咕音乐PC网页增强
 // @namespace    com.knciik
 // @version      1.0.0
 // @copyright    2021 @knciik
@@ -9,6 +9,10 @@
 // @match        *://music.migu.cn/v3/music/player/audio*
 // @icon         data:image/webp;base64,UklGRlIDAABXRUJQVlA4IEYDAABwDwCdASotAC0APm0ykkgkIqGhJzgKSIANiWwAxQvCvAfEcgXwhEEUt8wG6AdIjvIH7RekBocSenK2n1SJvIJvp1sqx0+i1nF+nPYK6Tf7R+yMs3n03D64MeVTnJQSdYbGaiAAqlz2u7OenFZ/7/0Ei0OlQSE1M4SCyu5+mo6p/gNnVIAA/vz2GZenYlitWYxE5qOVQCLcfKwG6NhXU9Ac7tASNGX5hXe9iuMD2qWNcZ596+WRSFSCv2Mya/wYvjVyat3/+e//3X9IfqX/vYL+9AL8hxImzzAE1x+2rfkFX2Mu7k+yjNCiAgTmrVZOYXpsbQCA2M+8fcbwi5xSosHpMgHerfSG3aC+qbmJb1RVKexs1C7eWN10SX73ER/noTD8VqIV/XXieWGaHNw03xyOER/I1JfJ8+05EdGQ6p8AC58jD7W9IhfQY8lruHEYYR025QhY5t1/EICXfOmidsWuaAKdWXv5H1KrdFfyw9fq/Qzc3e6wxc37JxUE/K5z+So6JZ26Kh9b/+Wr4RWIVCzypMUhcw/Cvn7TdE5jG8AGM7qML5WAmeuaDeA26L9tLCoPIR+SYWRoy2U0JQbKxd2XFGN9JbY6TAZLBKR8Na+5/UCNy34J0ap7f0TSCaHOL/K6w3szvxfNzilf4aZBO3FGIc/Cvf+bxiq2MNYZ7//6AcHOyoiq8XGuYP7U1zG7ma6Vrnirz1nSktS9iZRTDhbAR3UfoU2A010Y329TC/sXUJJILeU0Bc/auyBcdA+Ldc0Y9fgkTZRvEE8PSBPvjZvI9kk9PrRje9Az2GYcpOLn2IdN1oDGn9qL5zoSoahIIyBP5U6v/I/Wm/7BCJ4s8gpzSn+McqP72h8A/cEToBgX83vt0q3r03nA8Mmb8S9Cfb6dSva+wXylQ918EUG1q6EDmz6nNxUVJkJ6G1WeruJC6OYB8Y1fy+DOj0WCuqRcMJNaO0YQVwTc1F93Zfy0vOwsWvjpP0sjbU+riwKUY6G4DT/DjTxmrL728WulW65C0z5dvL73UBcprOneCADTniPqdrJ5//uk/5q7u6/zi1oBLIhtKXksfrvq/LhVQpiymp1kZDriqpcgX2w4w9kIWcUnrv+rNgAA
 // @grant        none
+// @homepageURL url
+// @supportURL url
+// @contributionURL url
+// @updateURL https://openuserjs.org/meta/knciik/migu.user.js
 // @description  针对咪咕音乐PC网页( https://music.migu.cn/v3/music/player/audio )，提供快捷键功能，一键下载
 // ==UserScript==
 
